@@ -1,0 +1,31 @@
+/* reset Css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.logo{
+    font-size:35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: rgb(5, 5, 68);
+    /* margin-bottom: 3px; */
+
+}
+
+h1{
+    text-align: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
